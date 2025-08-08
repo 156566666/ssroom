@@ -1,0 +1,2 @@
+本项目使用Python Flask框架编写网页，stm32cubemax的HAL库进行硬件编写
+Python还须与数据库连接
